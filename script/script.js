@@ -3,9 +3,9 @@ const Config = {
     scale: 1,
     Links: [
         [
-            "site",
+            "google",
             [
-                ["link", "https://www.example.com"],
+                ["link", "https://www.google.com"],
                 ["link", "https://www.example.com"]
             ]
         ],
