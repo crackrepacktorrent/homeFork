@@ -3,10 +3,10 @@ const Config = {
     scale: 1,
     Links: [
         [
-            "google",
+            "common",
             [
-                ["link", "https://www.google.com"],
-                ["link", "https://www.example.com"]
+                ["reddit", "https://www.reddit.com"],
+                ["link", "https://www.reddit.com"]
             ]
         ],
         [
