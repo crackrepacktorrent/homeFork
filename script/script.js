@@ -14,7 +14,7 @@ const Config = {
             [
                 ["lolalytics", "https://lolalytics.com/"],
                 ["op.gg", "na.op.gg"]
-            ]op
+            ]
         ],
         [
             "entertainment",
