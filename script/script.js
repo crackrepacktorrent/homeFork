@@ -12,7 +12,7 @@ const Config = {
         [
             "league",
             [
-                ["lolalytics", "https://lolalytics.com/"],
+                ["lolalytics", "https://lolalytics.com"],
                 ["op.gg", "na.op.gg"]
             ]
         ],
@@ -21,15 +21,15 @@ const Config = {
             [
                 ["netflix", "https://www.netflix.com"],
                 ["hulu", "https://www.hulu.com"],
-                ["twist.moe", "https://twist.cmoe"]
+                ["twist.moe", "https://twist.moe"]
             ]
         ],
         [
             "school",
             [
                 ["canvas", "https://fisd.instructure.com/login/ldap"],
-                ["drive", "https://drive.google.com/drive/"],
-                ["docs", "https://docs.google.com/document/u/0/"],
+                ["drive", "https://drive.google.com/drive"],
+                ["docs", "https://docs.google.com/document/u/0"],
                 ["blank", "https://www.example.com"]
             ]
         ]
