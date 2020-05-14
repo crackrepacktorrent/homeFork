@@ -6,31 +6,31 @@ const Config = {
             "common",
             [
                 ["reddit", "https://www.reddit.com"],
-                ["link", "https://www.reddit.com"]
+                ["youtube", "https://www.youtube.com"]
             ]
         ],
         [
-            "site",
+            "league",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["lolalytics", "https://lolalytics.com/"],
+                ["op.gg", "na.op.gg"]
+            ]op
+        ],
+        [
+            "entertainment",
+            [
+                ["netflix", "https://www.netflix.com"],
+                ["hulu", "https://www.hulu.com"],
+                ["twist.moe", "https://twist.cmoe"]
             ]
         ],
         [
-            "site",
+            "school",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
-            ]
-        ],
-        [
-            "site",
-            [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["canvas", "https://fisd.instructure.com/login/ldap"],
+                ["drive", "https://drive.google.com/drive/"],
+                ["docs", "https://docs.google.com/document/u/0/"],
+                ["blank", "https://www.example.com"]
             ]
         ]
     ]
