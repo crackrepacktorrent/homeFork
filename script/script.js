@@ -25,12 +25,12 @@ const Config = {
             ]
         ],
         [
-            "school",
+            "school/email",
             [
                 ["canvas", "https://fisd.instructure.com/login/ldap"],
                 ["drive", "https://drive.google.com/drive"],
-                ["docs", "https://docs.google.com/document/u/0"],
-                ["blank", "https://www.example.com"]
+                ["gmail", "https://mail.google.com/mail/u/0/#"],
+                ["outlook", "https://outlook.live.com/mail/0/inbox"]
             ]
         ]
     ]
