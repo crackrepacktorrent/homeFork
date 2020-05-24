@@ -13,7 +13,7 @@ const Config = {
             "league",
             [
                 ["lolalytics", "https://lolalytics.com"],
-                ["op.gg", "na.op.gg"]
+                ["op.gg", "https://na.op.gg"]
             ]
         ],
         [
