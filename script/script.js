@@ -22,12 +22,13 @@ const Config = {
                 ["netflix", "https://www.netflix.com"],
                 ["hulu", "https://www.hulu.com"],
                 ["twist.moe", "https://twist.moe"]
+                ["twitch", "https://twitch.tv"]
             ]
         ],
         [
             "school/email",
             [
-                ["canvas", "https://fisd.instructure.com/login/ldap"],
+                ["canvas", "https://canvas.stanford.edu/"],
                 ["drive", "https://drive.google.com/drive"],
                 ["gmail", "https://mail.google.com/mail/u/0/#"],
                 ["outlook", "https://outlook.live.com/mail/0/inbox"]
