@@ -21,7 +21,6 @@ const Config = {
             [
                 ["netflix", "https://www.netflix.com"],
                 ["hulu", "https://www.hulu.com"],
-                ["twist.moe", "https://twist.moe"]
                 ["twitch", "https://twitch.tv"]
             ]
         ],
