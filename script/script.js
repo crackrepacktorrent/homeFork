@@ -3,34 +3,34 @@ const Config = {
     scale: 1,
     Links: [
         [
-            "google",
+            "common",
             [
-                ["link", "https://www.google.com"],
-                ["link", "https://www.example.com"]
+                ["reddit", "https://www.reddit.com"],
+                ["youtube", "https://www.youtube.com"]
             ]
         ],
         [
-            "site",
+            "league",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["lolalytics", "https://lolalytics.com"],
+                ["op.gg", "https://na.op.gg"]
             ]
         ],
         [
-            "site",
+            "entertainment",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["netflix", "https://www.netflix.com"],
+                ["hulu", "https://www.hulu.com"],
+                ["twitch", "https://twitch.tv"]
             ]
         ],
         [
-            "site",
+            "school/email",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["canvas", "https://canvas.stanford.edu/"],
+                ["drive", "https://drive.google.com/drive"],
+                ["gmail", "https://mail.google.com/mail/u/0/#"],
+                ["outlook", "https://outlook.live.com/mail/0/inbox"]
             ]
         ]
     ]
