@@ -1,10 +1,10 @@
 @font-face {
-    font-family: "Roboto Mono";
-    src: url("../fonts/roboto-mono-medium.ttf");
+    font-family: "Agave";
+    src: url("../fonts/Agave-Regular.ttf");
 }
 
 :root {
-    --font: "Roboto Mono";
+    --font: "Agave Regular";
     --background: #282A36;
     --foreground: #fffffe;
     --pink: #e53170;
