@@ -5,23 +5,15 @@ const Config = {
         [
             "common",
             [
-                ["reddit", "https://www.reddit.com"],
+                ["discord", "https://discord.com/channels/@me"],
                 ["youtube", "https://www.youtube.com"]
             ]
         ],
         [
-            "league",
+            "pirac",
             [
-                ["lolalytics", "https://lolalytics.com"],
-                ["op.gg", "https://na.op.gg"]
-            ]
-        ],
-        [
-            "entertainment",
-            [
-                ["netflix", "https://www.netflix.com"],
-                ["hulu", "https://www.hulu.com"],
-                ["twitch", "https://twitch.tv"]
+                ["lucida", "https://lucida.to"],
+                ["myanonamouse", "https://myanonamouse.net"],
             ]
         ],
         [
