@@ -6,7 +6,8 @@ const Config = {
             "common",
             [
                 ["discord", "https://discord.com/channels/@me"],
-                ["youtube", "https://www.youtube.com"]
+                ["youtube", "https://www.youtube.com"],
+                ["slack", "https://stanford.enterprise.slack.com/"]
             ]
         ],
         [
